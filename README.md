@@ -13,4 +13,6 @@ It uses two trigger SPDT relays in a reverse polarity configuration to reverse t
 
 ![Reverse polarity relays](https://i.pinimg.com/originals/90/30/9d/90309d2d122e52f8f27ab058eae3af24.gif)
 
+Other than that it uses the face recognition code from [this tutorial](https://maker.pro/raspberry-pi/projects/how-to-create-a-facial-recognition-door-lock-with-raspberry-pi). 
+
 [Video](https://photos.app.goo.gl/HcvL9oxe5uwYwL7U7)
