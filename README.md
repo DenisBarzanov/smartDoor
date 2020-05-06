@@ -6,7 +6,7 @@ The raspberry pi commands the transistors, which control the actuator and power 
 ![Project image](https://lh3.googleusercontent.com/N7hNGYE4esqmywIHXbgOugEUkQujYg5YNEru3TXx3LZqplen-LH_G4zHsjaH2YCORZMTuUF2eCo5TnvamNLUyTbhyVVTmkKnR6pmUsMwsWSXHsEV-M5QrXJsaQLMciu7fnCmZ8DOWdXrhZpL4satATBX6lQxf8U)
 
 ## Schematic
-![schematic image](https://i.ibb.co/T4QX11g/Screenshot-2020-05-06-at-17-03-56.png "Schematic image")
+![schematic image](https://i.ibb.co/bXktv73/Schematic-Lock-controller-2020-05-06-17-44-32.png "Schematic image")
 
 <br/>
 It uses two trigger SPDT relays in a reverse polarity configuration to reverse the power of the actuator to retract it.
