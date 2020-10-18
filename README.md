@@ -3,7 +3,8 @@
 The project consists of a raspberry pi, a linear 12V actuator, 2 relays and two nMOSFETs 
 The raspberry pi commands the transistors, which control the actuator and power the relays.
 ## Image
-![Project image](https://lh3.googleusercontent.com/N7hNGYE4esqmywIHXbgOugEUkQujYg5YNEru3TXx3LZqplen-LH_G4zHsjaH2YCORZMTuUF2eCo5TnvamNLUyTbhyVVTmkKnR6pmUsMwsWSXHsEV-M5QrXJsaQLMciu7fnCmZ8DOWdXrhZpL4satATBX6lQxf8U)
+
+<img src="https://i.imgur.com/zVtaRP2.jpg" />
 
 ## Schematic
 ![schematic image](https://i.ibb.co/bXktv73/Schematic-Lock-controller-2020-05-06-17-44-32.png "Schematic image")
